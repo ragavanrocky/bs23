@@ -9,4 +9,3 @@ if num > 1:
         print("yes")
 else:
     print("no")
-fsgsh
